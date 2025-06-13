@@ -1,11 +1,11 @@
 
 # Project 1 - # EB-Wordie
 
-Submitted by: **Your Name Here**
+Submitted by: Eloy Beaucejour
 
 Woredie is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
